@@ -1,0 +1,13 @@
+package main;
+
+import java.util.List;
+
+public class BubbleShort {
+	public static void main(String[] args) {
+		int[] a = { 6, 0, 5, 2, 0, 1, 0, 3, 0, 4 };
+		List<int[]> asList = java.util.Arrays.asList(a);
+		
+		
+	}
+
+}

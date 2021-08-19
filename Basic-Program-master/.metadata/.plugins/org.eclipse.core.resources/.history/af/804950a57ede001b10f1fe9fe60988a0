@@ -1,0 +1,17 @@
+package main;
+
+import java.util.List;
+
+public class BubbleShort {
+	public static void main(String[] args) {
+		Integer[] a = { 6, 0, 5, 2, 0, 1, 0, 3, 0, 4 };
+		List<Integer> asList = java.util.Arrays.asList(a);
+		for (int[] is : asList) {
+			if(asList>0) {
+				
+			}
+		}
+		
+	}
+
+}

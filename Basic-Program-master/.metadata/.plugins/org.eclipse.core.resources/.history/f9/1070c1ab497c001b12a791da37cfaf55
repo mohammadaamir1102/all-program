@@ -1,0 +1,10 @@
+package com.corejava.revision;
+
+public class AddTwoNumber {
+	public static void main(String[] args) {
+		float f=10.5f;
+		int b=(int)f;
+		System.out.println(f);
+	}
+
+}

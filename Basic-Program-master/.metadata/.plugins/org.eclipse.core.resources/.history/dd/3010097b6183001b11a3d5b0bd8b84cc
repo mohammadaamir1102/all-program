@@ -1,0 +1,13 @@
+package com.practice;
+
+
+
+public class Practice {
+	public Practice() {
+		System.out.println("Aamir khan");
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

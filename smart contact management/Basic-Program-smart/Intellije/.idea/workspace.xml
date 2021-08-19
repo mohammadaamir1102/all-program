@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca47fdf6-0e5a-48c1-88cf-141a697c3945" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ConstructerOverLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CovariantReturnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Upcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/ArmStrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/ArrayListPro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/ArrayPr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/BushraArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/ComparableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/ComparablePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/MapForMyStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/OmegaStringInterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/StudentArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/StudentForList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/basic/TreeSetPRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-lecture/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-lecture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-lecture/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-lecture/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-lecture/jdbc-lecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-lecture/src/com/jdbc/jdbcConnectivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenProject/src/main/java/com/maven/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenProject/src/main/java/com/maven/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-revision/src/main/java/com/springboot/revision/controller/DepartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-revision/src/main/java/com/springboot/revision/entity/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-revision/src/main/java/com/springboot/revision/repository/DepartmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-revision/src/main/java/com/springboot/revision/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-revision/src/main/java/com/springboot/revision/service/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-revision/src/main/java/com/springboot/revision/service2/LogInUseDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/spring/dbsecurity/entity/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/spring/dbsecurity/repo/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/spring/dbsecurity/service/LoginUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2938165024-3698752316-3809963125-1001/$RC66R6Z/csv-file-By-Hibernate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2938165024-3698752316-3809963125-1001/$RX9CE9E/csvfilemaven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/basic/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basic/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/basic/CustomeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basic/CustomeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/basic/NestedTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basic/NestedTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/basic/crud/Operatoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basic/crud/Operatoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/basic/crud/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/basic/crud/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-db-with-crud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-db-with-crud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-db-with-crud/src/main/java/com/bootcrud/SpringBootDbWithCrudApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-db-with-crud/src/main/java/com/bootcrud/SpringBootDbWithCrudApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-db-with-crud/src/main/java/com/bootcrud/controller/FileUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-db-with-crud/src/main/java/com/bootcrud/controller/FileUploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-db-with-crud/src/main/java/com/bootcrud/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-db-with-crud/src/main/java/com/bootcrud/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-db-with-crud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-db-with-crud/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1nkJL5fCiS47Jvbu8pE1KbACUDf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../STS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="CovariantReturnType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CovariantReturnType" />
+      <module name="Intellije" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.HelloWorld" />
+      <module name="Intellije" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Practice" />
+      <module name="Intellije" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Upcasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Upcasting" />
+      <module name="Intellije" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.WrapperClass" />
+      <module name="Intellije" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.WrapperClass" />
+        <item itemvalue="Application.Upcasting" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.CovariantReturnType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca47fdf6-0e5a-48c1-88cf-141a697c3945" name="Default Changelist" comment="" />
+      <created>1611928099197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611928099197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basic/BushraArrayList.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Intellije$Main.ic" NAME="Main Coverage Results" MODIFIED="1611928256551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Intellije$FrequencyOfDigit.ic" NAME="FrequencyOfDigit Coverage Results" MODIFIED="1617520449647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.basic.*</FILTER>
+    </SUITE>
+  </component>
+</project>

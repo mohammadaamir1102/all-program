@@ -1,0 +1,23 @@
+package aamir;
+
+abstract class Vehicle{
+	abstract void start();
+	abstract void stop();
+	
+	
+}
+class Audi extends Vehicle{
+
+	@Override
+	void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+}
+
+public class IrshadQuestion {
+
+}

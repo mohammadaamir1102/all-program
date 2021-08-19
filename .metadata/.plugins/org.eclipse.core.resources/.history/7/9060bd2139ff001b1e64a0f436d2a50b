@@ -1,0 +1,42 @@
+package aamir;
+
+abstract class Vehicle {
+	abstract void start();
+
+	abstract void stop();
+
+}
+
+abstract class Audi extends Vehicle {
+
+	@Override
+	void start() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	void stop() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Scooter extends Audi {
+
+	@Override
+	void start() {
+		System.out.println("scooter is start");
+		super.start();
+	}
+
+}
+
+public class IrshadQuestion {
+	public static void main(String[] args) {
+		Vehicle vehicle = new Scooter();
+		vehicle.start();
+	}
+
+}

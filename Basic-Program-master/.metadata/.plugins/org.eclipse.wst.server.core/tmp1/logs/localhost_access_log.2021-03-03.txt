@@ -1,0 +1,14 @@
+127.0.0.1 - - [03/Mar/2021:10:32:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:32:47 +0530] "GET /springmvccrud/ HTTP/1.1" 200 4248
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:32:48 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:33:17 +0530] "GET /springmvccrud/success HTTP/1.1" 200 5166
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:33:36 +0530] "GET /springmvccrud/add HTTP/1.1" 200 4248
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:19 +0530] "POST /springmvccrud/formHandle HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:19 +0530] "GET /springmvccrud/ HTTP/1.1" 200 4248
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:23 +0530] "GET /springmvccrud/success HTTP/1.1" 200 5731
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:30 +0530] "GET /springmvccrud/delete/15 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:30 +0530] "GET /springmvccrud/success HTTP/1.1" 200 5106
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:33 +0530] "GET /springmvccrud/update/12 HTTP/1.1" 200 4206
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:38 +0530] "POST /springmvccrud/formHandle HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:38 +0530] "GET /springmvccrud/ HTTP/1.1" 200 4248
+0:0:0:0:0:0:0:1 - - [03/Mar/2021:10:34:40 +0530] "GET /springmvccrud/success HTTP/1.1" 200 5106

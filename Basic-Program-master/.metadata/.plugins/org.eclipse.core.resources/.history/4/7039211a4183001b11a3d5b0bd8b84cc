@@ -1,0 +1,26 @@
+package com.practice;
+
+
+class Name{
+	private int id;
+	private String name;
+	public Name set(int id) {
+		this.id=id;
+		return this;
+	}
+	public Name get(String name) {
+		this.name=name;
+		return this;
+	}
+	void show() {
+		System.out.println(id+" "+ name);
+	}
+}
+public class Practice {
+	
+	public static void main(String[] args) {
+		Name name=new Name();
+		name.set(12).get("Aamir").
+	}
+
+}

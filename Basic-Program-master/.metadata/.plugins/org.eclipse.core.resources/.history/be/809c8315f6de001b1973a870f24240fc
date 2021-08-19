@@ -1,0 +1,10 @@
+package com.springboot.full.tut.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.springboot.full.tut.service.inter.EmployeeService;
+
+@Service
+public class EmployeeServiceImpl implements EmployeeService{
+
+}

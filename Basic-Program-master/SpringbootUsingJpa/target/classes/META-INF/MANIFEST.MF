@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: MOHAMMAD AAMIR KHAN
+Build-Jdk: 14.0.2
+Implementation-Title: SpringbootUsingJpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.Jpa.test
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringbootUsingJpa
+Created-By: Maven Integration for Eclipse
+

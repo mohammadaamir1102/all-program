@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org"
+      th:replace="base::layout(~{::section})">
+<head>
+    <meta charset="ISO-8859-1">
+</head>
+<body>
+<section>
+    <div class="container text-dark">
+        <div class="row"></div>
+        <div class="col-md-6 offset-md-3">
+
+            <div class="my-card mt-3">
+
+                <!-- th:if  if session has attribute of message name then show alert -->
+                <!-- ${session.message.type} this is responsible for alert like danger or success -->
+                <!-- ${session.message.content} this is responsible for message like success or something went wrong -->
+
+                <div th:if="${session.message}"
+                     th:classappend="${session.message.type}" class="alert"
+                     role="alert">
+                    <p class="text-center" th:text="${session.message.content}">
+                        <th:block th:text="${#session.removeAttribute('message')}"></th:block>
+                </div>
+
+                <div class="container text-center">
+                    <img style="width: 70px" th:src="@{/img/file.png}" alt=""/>
+                </div>
+
+                <h3 class="text-center">Sign up !!</h3>
+
+                <form novalidate th:action="@{/do-register}" method="post"
+                      th:object="${user}">
+
+                    <!-- name field -->
+                    <div class="mb-3">
+                        <label for="name" class="form-label">Your Name</label> <input
+                            name="userName" type="text" class="form-control  "
+                            th:classappend="${#fields.hasErrors('userName')? 'is-invalid':''}"
+                            id="name" aria-describedby="emailHelp" placeholder="Enter here"
+                            required="required" th:value="${user.userName}"/>
+
+                       <!-- <div class="invalid-feedback"
+                             th:each="e: ${#fields.errors('userName')}" th:text="${e}">
+                        </div>-->
+                        <div class="invalid-feedback">
+                            Please provide a valid city.
+                        </div>
+
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Your Email</label> <input
+                            name="userEmail" type="email" class="form-control"
+                            th:classappend="${#fields.hasErrors('userEmail')? 'is-invalid':''}"
+                            id="email" aria-describedby="emailHelp" placeholder="Enter here"
+                            required="required" th:value="${user.userEmail}"/>
+
+                        <div class="invalid-feedback"
+                             th:each="e: ${#fields.errors('userEmail')}" th:text="${e}">
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Your Password</label> <input
+                            name="userPassword" type="password" class="form-control"
+                            th:classappend="${#fields.hasErrors('userPassword')? 'is-invalid':''}"
+                            id="password" aria-describedby="emailHelp"
+                            placeholder="Enter here" required="required"/>
+
+                        <div class="invalid-feedback"
+                             th:each="e: ${#fields.errors('userPassword')}" th:text="${e}">
+                        </div>
+
+                    </div>
+
+                    <div class="form-group">
+							<textarea name="userAbout" class="form-control"
+                                      placeholder="Enter something Yourself" id="floatingTextarea"
+                                      rows="2" required="required" th:text="${user.userAbout}"/></textarea>
+
+                    </div>
+
+
+                    <div class=" form-group form-check">
+                        <input name="agreement" type="checkbox" class="form-check-input"
+                               id="exampleCheck1"> <label class="form-check-label"
+                                                          for="exampleCheck1">Accept terms and conditions</label>
+
+
+                    </div>
+
+
+                    <div class="container text-center">
+                        <br/>
+
+                        <button type="submit" class="btn bg-primary text-white">Submit</button>
+
+                        <button type="reset" class="btn btn-danger text-white">Reset</button>
+                    </div>
+
+
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+</body>
+</html>

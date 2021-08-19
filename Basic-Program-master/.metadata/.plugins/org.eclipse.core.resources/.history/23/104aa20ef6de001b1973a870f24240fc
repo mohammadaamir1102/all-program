@@ -1,0 +1,5 @@
+package com.springboot.full.tut.service.inter;
+
+public interface EmployeeService {
+
+}

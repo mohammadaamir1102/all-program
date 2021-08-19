@@ -1,0 +1,11 @@
+127.0.0.1 - - [20/Mar/2021:11:21:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2021:11:21:55 +0530] "GET /spring-mvc-project/ HTTP/1.1" 500 9958
+0:0:0:0:0:0:0:1 - - [20/Mar/2021:11:21:57 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [20/Mar/2021:11:23:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2021:11:24:15 +0530] "GET /spring-mvc-project/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Mar/2021:11:24:34 +0530] "GET /spring-mvc-project/registrationPage HTTP/1.1" 200 18986
+0:0:0:0:0:0:0:1 - - [20/Mar/2021:11:26:30 +0530] "POST /spring-mvc-project/form HTTP/1.1" 200 440
+127.0.0.1 - - [20/Mar/2021:11:31:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Mar/2021:11:31:59 +0530] "GET /spring-mvc-project/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Mar/2021:11:32:07 +0530] "GET /spring-mvc-project/registrationPage HTTP/1.1" 200 18991
+0:0:0:0:0:0:0:1 - - [20/Mar/2021:11:33:19 +0530] "POST /spring-mvc-project/form HTTP/1.1" 200 476

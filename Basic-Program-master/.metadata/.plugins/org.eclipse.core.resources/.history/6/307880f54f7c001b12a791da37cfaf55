@@ -1,0 +1,14 @@
+package com.corejava.revision;
+
+public class AddTwoNumber {
+	 int b=10;
+	 static int z=10;
+	public static void main(String[] args) {
+		 int a=10;
+		
+		/*
+		 * public private protected default
+		 */
+	}
+
+}

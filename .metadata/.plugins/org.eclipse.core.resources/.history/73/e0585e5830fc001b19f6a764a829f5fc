@@ -1,0 +1,9 @@
+package java8Revision;
+
+public class MultipleClass {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

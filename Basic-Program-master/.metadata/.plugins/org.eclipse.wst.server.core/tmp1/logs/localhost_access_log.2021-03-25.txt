@@ -1,0 +1,14 @@
+127.0.0.1 - - [25/Mar/2021:08:52:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:08:52:55 +0530] "GET /spring-mvc-project/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:08:52:55 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:08:54:19 +0530] "GET /spring-mvc-project/registrationPage HTTP/1.1" 200 18991
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:08:56:27 +0530] "POST /spring-mvc-project/form HTTP/1.1" 200 480
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:09:00:43 +0530] "GET /spring-mvc-project/registrationPage HTTP/1.1" 200 18991
+127.0.0.1 - - [25/Mar/2021:10:23:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:10:23:55 +0530] "GET /spring-mvc-project/salan HTTP/1.1" 404 682
+127.0.0.1 - - [25/Mar/2021:10:25:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:10:25:32 +0530] "GET /spring-mvc-project/registrationPage HTTP/1.1" 200 18991
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:11:20:59 +0530] "GET /spring-mvc-project/registrationPage HTTP/1.1" 200 18991
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:11:25:11 +0530] "POST /spring-mvc-project/form HTTP/1.1" 200 452
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:11:25:28 +0530] "POST /spring-mvc-project/form HTTP/1.1" 200 451
+0:0:0:0:0:0:0:1 - - [25/Mar/2021:11:25:32 +0530] "GET /spring-mvc-project/registrationPage HTTP/1.1" 200 18991

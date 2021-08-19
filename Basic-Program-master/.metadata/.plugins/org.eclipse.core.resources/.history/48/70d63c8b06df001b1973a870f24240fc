@@ -1,0 +1,8 @@
+package com.springboot.full.tut.service.inter;
+
+import com.springboot.full.tut.entity.Employee;
+
+public interface EmployeeService {
+	Employee savEmployee(Employee employee);
+
+}

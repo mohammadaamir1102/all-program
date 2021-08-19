@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;hibernate.cfg.xml&apos; to &apos;csv-file-maven/src/main/java/com.csv&apos;&#x0D;&#x0A;- Original project: &apos;hibernateAllMapping&apos;&#x0D;&#x0A;- Destination element: &apos;csv-file-maven/src/main/java/com.csv&apos;&#x0D;&#x0A;- Original element: &apos;hibernate.cfg.xml&apos;" description="Copy file" destination="=csv-file-maven/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csv" element1="src/main/java/com/practice/hibernate.cfg.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1617280418907" units="0" version="1.0"/>
+</session>

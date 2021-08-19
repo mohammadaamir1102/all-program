@@ -1,0 +1,13 @@
+package aamir;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+class Aamir {
+	public static void main(String[] args) {
+		String [] aStrings= {"Aamir","Aasim","Salman","Aamir"};
+		ArrayList<String> arrayList = new ArrayList<>(Arrays.asList(aStrings));
+		arrayList.removeIf(a->a.contains("Aamir"));
+		System.out.println(arrayList);
+	}
+}

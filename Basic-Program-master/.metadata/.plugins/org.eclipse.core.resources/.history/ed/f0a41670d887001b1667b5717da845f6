@@ -1,0 +1,15 @@
+package com.practice;
+
+class AamirKhan {
+ AamirKhan() {
+System.out.println("fis");
+}
+AamirKhan(int a){
+	System.out.println(a);
+}
+
+public class Practice {
+	public static void main(String[] args) {
+		
+		}
+}

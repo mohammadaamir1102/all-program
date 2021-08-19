@@ -1,0 +1,31 @@
+package com.corejava.revision;
+
+public class Variable {
+	public static void main(String[] args) {
+		int aamir=50;
+		System.out.println(aamir);
+		
+		/* variable is the name of the memory 
+		 * location that can store the data */
+		
+		
+		/*local variable
+		
+		which variable declared inside the method and constructor and block
+		
+		*/
+		 
+		/*instance variable 
+		
+		which variable declared inside class and out side the  method body
+		*/
+		/*
+		 * static variable
+		 * 
+		 * which variable declared as a static inside the class 
+		 * static cannot be local variable
+		 */
+	}
+	
+
+}

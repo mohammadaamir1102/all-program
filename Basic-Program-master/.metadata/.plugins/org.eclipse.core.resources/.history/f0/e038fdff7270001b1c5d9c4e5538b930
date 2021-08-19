@@ -1,0 +1,19 @@
+package com.basic;
+
+import jdk.internal.org.objectweb.asm.tree.MultiANewArrayInsnNode;
+
+import java.util.*;
+
+public class TreesetFIrst {
+    public static void main(String[] args) {
+        Set<String>set=new TreeSet<>();
+        Collections.addAll(set,"zeeshan khan","aamir khan","salman","furqan");
+        set.forEach(a-> System.out.println(a));
+        System.out.println("=====================");
+        }
+
+            }
+
+//by default sorting form
+//can not contains duplicate
+//not allows null

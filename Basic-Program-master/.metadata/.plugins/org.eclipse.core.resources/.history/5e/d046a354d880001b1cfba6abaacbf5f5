@@ -1,0 +1,22 @@
+package com.interview;
+
+class Bas {
+	Number show() {
+		System.out.println("parent class");
+		return null;
+	}
+}
+
+public class CovariantReturnType extends Bas {
+	public Number show() {
+		System.out.println("child class");
+		return null;
+	}
+
+	public static void main(String[] args) {
+		Bas b = new CovariantReturnType();
+		b.show();
+
+	}
+
+}

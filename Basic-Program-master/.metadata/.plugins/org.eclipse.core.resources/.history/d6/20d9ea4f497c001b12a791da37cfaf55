@@ -1,0 +1,9 @@
+package com.corejava.revision;
+
+public class AddTwoNumber {
+	public static void main(String[] args) {
+		float f=10.5f;
+		double d=10.5;
+	}
+
+}

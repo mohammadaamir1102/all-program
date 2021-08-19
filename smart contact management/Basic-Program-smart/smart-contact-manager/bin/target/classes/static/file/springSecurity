@@ -1,0 +1,36 @@
+spring security by three way
+
+1- Provide the implementation of [UserDetails] interface
+									  ^
+									  |
+								[CustomeUserDetails]
+								
+________________________________________________________________________________								
+							
+2- provide the implementation of [userDetailsService] interface
+										^
+										|
+								 [UserDetailsServiceImpl]
+								 
+________________________________________________________________________________
+								 
+3- write the security configuration class with all configuration 
+   and extends [WebSecurityConfigurerAdapter] class
+   
+--------------------------------------------------------------------------------
+   ===>several method that we can use to configure the behavior of the form login
+   1-	loginPage() -> use for custom login
+   2-	loginProcessingUrl() -> the URL submit the user name and password
+   3-	defaultSuccessUrl() -> the landing page after a successfully login
+   4-	failureUrl() -> the landing page after a unsuccessfully login
+   
+   
+   
+   use for icon
+   font awesome icon 5 cdn (search on google)
+   
+   
+   
+   
+   
+   

@@ -1,0 +1,5 @@
+package com.springboot.full.tut.repo;
+
+public interface StudentRepository {
+
+}

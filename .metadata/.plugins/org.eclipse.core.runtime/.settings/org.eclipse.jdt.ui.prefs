@@ -1,0 +1,10 @@
+content_assist_autoactivation_triggers_java=._abcdefghijklmnopqrstuvwxyz
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Readable"><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.io.Reader"><rhs name\="java.io.InputStreamReader"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java8Revision.MultipleClass$A"><rhs name\="java8Revision.MultipleClass$A"/></lhs><lhs name\="aamir.NestedClass1"><rhs name\="aamir.NestedClass1"/></lhs><lhs name\="aamir.NestedClass1$Atif"><rhs name\="aamir.NestedClass1$Atif"/></lhs><lhs name\="aamir.NestedClass1$Arshad"><rhs name\="aamir.NestedClass1$Arshad"/></lhs><lhs name\="aamir.Bank"><rhs name\="aamir.NestedClass1"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

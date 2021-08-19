@@ -1,0 +1,16 @@
+package aamir;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
+class Aamir {
+	public static void main(String[] args) {
+		String [] aStrings= {"Aamir","Aasim","Salman","Aamir"};
+		ArrayList<String> arrayList = new ArrayList<>(Arrays.asList(aStrings));
+		List<String> collect = arrayList.stream().sorted().collect(Collectors.toList());
+		collect.forEach(System.out::println);
+		
+	}
+}

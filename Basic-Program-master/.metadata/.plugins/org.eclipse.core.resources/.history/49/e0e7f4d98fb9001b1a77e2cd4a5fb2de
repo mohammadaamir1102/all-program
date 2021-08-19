@@ -1,0 +1,10 @@
+package aamir;
+
+public class PostIncre {
+	public static void main(String[] args) {
+		int a=5;
+		a=(++a)++;
+		System.out.println("hello" + (a + b));
+	}
+
+}

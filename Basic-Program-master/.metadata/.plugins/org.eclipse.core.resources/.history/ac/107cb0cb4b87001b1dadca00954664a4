@@ -1,0 +1,20 @@
+package com.practice;
+
+class AamirKhan {
+	static int show(int a, int b) {
+		return a + b;
+
+	}
+
+	static int show(int a, int b, int c) {
+		return a + b;
+
+	}
+}
+
+public class Practice {
+	public static void main(String[] args) {
+		System.out.println(AamirKhan.show(10, 10));
+		System.out.println(AamirKhan.show(10, 10, 10));
+	}
+}

@@ -1,0 +1,17 @@
+package com.practice;
+
+import org.omg.CosNaming.NamingContextExtPackage.StringNameHelper;
+
+public class Practice {
+	
+	 int show() {
+		System.out.println("aamir");
+		return 0;
+		
+	}
+	
+	public static void main(String[] args) {
+		Practice practice = new Practice();
+	}
+
+}

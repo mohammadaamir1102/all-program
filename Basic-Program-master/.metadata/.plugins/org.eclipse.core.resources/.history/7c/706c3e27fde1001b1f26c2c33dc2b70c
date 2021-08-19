@@ -1,0 +1,30 @@
+package aamir;
+
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+
+class Aamir {
+	public static void main(String[] args) {
+		/*
+		 * List<String> arrayList = new ArrayList<>(); Collections.addAll(arrayList,
+		 * "Aamir","Aamir","Aasim");
+		 * arrayList.stream().distinct().forEach(System.out::println);
+		 * System.out.println("_________________________________");
+		 * 
+		 * 
+		 * HashSet<String>set=new HashSet<>(); Collections.addAll(set,
+		 * "hi","bye","hello","hi"); set.forEach(System.out::println);
+		 */
+		
+		HashMap<String, String> map=new HashMap<>();
+		map.put("Uk", "united kingdom");
+		map.put("Uk", "united kingdom");
+		map.put("In", "india");
+		map.put("UE", "united Emirat");
+		for(Map.Entry<String, String>  m:map.entrySet()) {
+			System.out.println(m.getKey()+" "+m.getValue());
+		}
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;springmvc.search.Search&apos; to &apos;SerachController&apos;&#x0D;&#x0A;- Original project: &apos;springmvcsearch&apos;&#x0D;&#x0A;- Original element: &apos;springmvc.search.Search&apos;&#x0D;&#x0A;- Renamed element: &apos;springmvc.search.SerachController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Search&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;springmvc.search{Search.java[Search" matchStrategy="1" name="SerachController" qualified="false" references="true" similarDeclarations="false" stamp="1614233656473" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+package com.practice;
+
+
+public class Practice {
+	public Practice() {
+	System.out.println("a");	// TODO Auto-generated constructor stub
+	}
+	Practice(int a){
+		this();
+		System.out.println(a);
+	}
+	public static void main(String[] args) {
+		Practice practice=new Practice(10);
+	}
+}

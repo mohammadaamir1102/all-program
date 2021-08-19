@@ -1,0 +1,22 @@
+package com.springboot.full.tut.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.springboot.full.tut.entity.Employee;
+import com.springboot.full.tut.repo.EmployeeRepository;
+import com.springboot.full.tut.service.inter.EmployeeService;
+
+@Service
+public class EmployeeServiceImpl implements EmployeeService{
+	
+	@Autowired
+	private EmployeeRepository employeeRepository;
+	
+	@Override
+	public Employee savEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

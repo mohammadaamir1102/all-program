@@ -1,0 +1,13 @@
+package com.spring.security.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MainController {
+
+	@GetMapping("/")
+	public String security() {
+		return "welcome to security !!";
+	}
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org"
+	th:replace="base::layout(~{::section})">
+<head>
+<meta charset="ISO-8859-1">
+
+</head>
+<body>
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 offset-md-3">
+					<div class="my-card1 mt-5">
+						<div class="account-wall">
+
+							<div class="container text-center">
+								<img style="width: 70px" th:src="@{/img/login.png}" alt="" />
+							</div>
+							<h3 class="text-center">Sign in</h3>
+
+
+
+							<form class="form-signin" method="post"
+								th:action="@{/login}" action="#">
+
+								<div th:if="${param.error}" class="alert alert-danger">
+									Invalid email and password</div>
+
+								<div th:if="${param.logout}" class="alert alert-success">
+									Logged out successfully</div>
+
+								<input type="text" id="username" name="username"
+									class="form-control" placeholder="Email" required autofocus>
+								<br /> <input type="password" id="password" name="password"
+									class="form-control" placeholder="Password" required>
+
+								<button class="btn btn-lg bg-primary btn-block text-white"
+									type="submit">Sign in</button>
+									<br />
+
+								<!-- <label class="checkbox pull-left"> <input
+									type="checkbox" value="remember-me"> Remember me
+								</label> --> <a href="/signup" class="text-center new-account text-primary">Create
+									an account </a>
+							</form>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</section>
+</body>
+</html>

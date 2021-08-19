@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb0ca1f1-58a2-4813-a34b-b0c39e572ac7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/aamir/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/aamir/AnasTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/aamir/AnasTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/aamir/StringA.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/aamir/StringA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/Lambda/AbstractaMethodCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/com/Lambda/AbstractaMethodCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/Lambda/CollectionShortByLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/com/Lambda/CollectionShortByLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/Lambda/Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/com/Lambda/Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/Lambda/Student123.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/com/Lambda/Student123.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/corejava/revision/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/com/corejava/revision/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/interview/Apwad2.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/com/interview/Apwad2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/interview/CovariantReturnType$Aammir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/interview/CovariantReturnType.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/com/interview/CovariantReturnType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/bin/com/practice/MinMaxinArrayByOneLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/bin/com/practice/MinMaxinArrayByOneLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/src/aamir/AnasTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/src/aamir/AnasTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/src/aamir/StringA.java" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/src/aamir/StringA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/src/com/Lambda/AbstractaMethodCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/src/com/Lambda/AbstractaMethodCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/src/com/Lambda/CollectionShortByLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/src/com/Lambda/CollectionShortByLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/src/com/corejava/revision/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/src/com/corejava/revision/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/src/com/interview/Apwad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/src/com/interview/Apwad2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/src/com/interview/CovariantReturnType.java" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/src/com/interview/CovariantReturnType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aamir/src/com/practice/MinMaxinArrayByOneLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/aamir/src/com/practice/MinMaxinArrayByOneLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv-file-maven/target/classes/META-INF/maven/com.csv/csv-file-maven/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/csv-file-maven/target/classes/META-INF/maven/com.csv/csv-file-maven/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernateAllMapping/src/main/java/com/one/to/many/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernateAllMapping/src/main/java/com/one/to/many/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernateAllMapping/src/main/java/com/practice/FirstLevelCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernateAllMapping/src/main/java/com/practice/FirstLevelCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernateAllMapping/src/main/java/com/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/hibernateAllMapping/src/main/java/com/practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernateAllMapping/target/classes/META-INF/maven/com.practice/DemoOnetoOne/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hibernateAllMapping/target/classes/META-INF/maven/com.practice/DemoOnetoOne/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernateAllMapping/target/classes/com/one/to/many/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/hibernateAllMapping/target/classes/com/one/to/many/Question.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rest-api/src/main/java/com/restapi/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rest-api/src/main/java/com/restapi/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rest-api/src/main/java/com/restapi/tempservice/TempService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rest-api/src/main/java/com/restapi/tempservice/TempService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rest-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rest-api/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qZOg3m7biLtK30RMETkDSsBXnh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb0ca1f1-58a2-4813-a34b-b0c39e572ac7" name="Default Changelist" comment="" />
+      <created>1617283756687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617283756687</updated>
+    </task>
+    <servers />
+  </component>
+</project>

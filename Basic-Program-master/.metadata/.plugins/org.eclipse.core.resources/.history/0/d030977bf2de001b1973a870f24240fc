@@ -1,0 +1,5 @@
+package com.springboot.full.tut.entity;
+
+public class Employee {
+
+}

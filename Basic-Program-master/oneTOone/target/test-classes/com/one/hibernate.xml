@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory><!--use to configure and initialize the session factory such as dialect URL user name password etc  -->
+		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="connection.url">jdbc:mysql://localhost:3306/mavenannotation</property>
+		<property name="connection.username">root</property>
+		<property name="connection.password">root</property>
+		<property name="dialect">org.hibernate.dialect.MySQLDialect</property><!--provides the query type of database -->
+		<property name="hbm2ddl.auto">create</property><!--for automatic table creation 
+			and if we are provide here create then every time new table create and delete -->         
+		<property name="show_sql">true</property><!-- show query on console-->
+		
+		<mapping class="com.one.Address"/>
+		<mapping class="com.one.Employee"/>
+	</session-factory>
+</hibernate-configuration>

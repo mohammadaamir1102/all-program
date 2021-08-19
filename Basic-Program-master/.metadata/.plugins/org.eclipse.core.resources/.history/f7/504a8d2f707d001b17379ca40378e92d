@@ -1,0 +1,25 @@
+package com.sts;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+import com.sts.model.Student;
+import com.sts.repo.StudentRepo;
+
+@SpringBootApplication
+public class SpringbootdbconnectivityApplication {
+
+	public static void main(String[] args) {
+		ApplicationContext context = SpringApplication.run(SpringbootdbconnectivityApplication.class, args);
+		StudentRepo studentRepo = context.getBean(StudentRepo.class);
+		
+		Student student = new Student();
+		student.setName("aasim khan");
+		student.setAddress("saki naka");
+		student.setCity("Mumbai");
+		
+		Student save = studentRepo.save(student);
+		System.out.println(save);
+	}
+
+}

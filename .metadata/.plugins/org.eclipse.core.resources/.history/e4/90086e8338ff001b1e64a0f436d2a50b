@@ -1,0 +1,15 @@
+package aamir;
+
+abstract class Vehicle{
+	abstract void start();
+	abstract void stop();
+	
+	
+}
+class Car extends Vehicle{
+	
+}
+
+public class IrshadQuestion {
+
+}

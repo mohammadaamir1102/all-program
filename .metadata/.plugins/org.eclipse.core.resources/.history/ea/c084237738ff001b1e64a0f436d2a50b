@@ -1,0 +1,10 @@
+package aamir;
+
+abstract class Vehicle{
+	void start();
+	
+}
+
+public class IrshadQuestion {
+
+}

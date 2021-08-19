@@ -1,0 +1,37 @@
+package springmvc.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import springmvc.modeattributes.User;
+
+@Repository
+public class UserDao {
+	
+	/* here hibernate to help dao class for contact to database */
+	
+	@Autowired  
+	//add object in hibernate template implicitly that's why here use autowiring
+	private HibernateTemplate hibernateTemplate;
+
+	/*
+	 * hibernate contact to database but how (here we have to make a
+	 * HibernateTemplate)
+	 */
+	
+	
+	/* now we have to call saveUser method from controller */
+	@Transactional
+	public int saveUser(User user) {
+
+		/*
+		 * here save is the method of hibernateTemplate class and why we did type cast
+		 * in Integer bcz save related to serializabe interface then we have to do
+		 * type casting and value will get also as integer
+		 */
+		int id = (Integer) this.hibernateTemplate.save(user);
+		return id;
+	}
+}

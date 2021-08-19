@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+            http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+            http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.1.xsd
+            http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.1.xsd
+            http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.1.xsd
+            http://www.springframework.org/schema/oxm http://www.springframework.org/schema/oxm/spring-oxm-3.1.xsd
+            http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.1.xsd">
+
+	<tx:annotation-driven/>
+	<!-- it is for all class annotation if we are not using this then annotation 
+		will not be work -->
+	<context:component-scan
+		base-package="com.springmvc" />
+	<bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver"
+		name="viewResolver">
+		<!-- prefix for folder -->
+		<property name="prefix" value="/WEB-INF/views/" />
+		<!-- suffix for extension -->
+		<property name="suffix" value=".jsp" />
+	</bean>
+
+	<!-- DATA SOURCE -->
+	<bean
+		class="org.springframework.jdbc.datasource.DriverManagerDataSource"
+		name="ds">
+		<property name="driverClassName"
+			value="com.mysql.jdbc.Driver" />
+		<property name="url"
+			value="jdbc:mysql://localhost:3306/springmvccrud" />
+		<property name="username" value="root" />
+		<property name="password" value="root" />
+	</bean>
+
+	<!-- LOCAL SESSION FACTORY BEAN -->
+
+	<bean
+		class="org.springframework.orm.hibernate5.LocalSessionFactoryBean"
+		name="factory">
+
+		<!--HERE WE HAVE TO SAVE DATA SOURCE PROPERTY THAT'S WHY WE PASSED HERE 
+			THR REF OF DATA SOURCE -->
+		<property name="dataSource" ref="ds"></property>
+
+		<!--HIBERNATE PROPERTIES -->
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.MySQL55Dialect</prop>
+				<prop key="hibernate.show_sql">true</prop>
+				<prop key="hibernate.hbm2ddl.auto">update</prop>
+			</props>
+		</property>
+
+		<!-- ANNOTATED CLASS -->
+		<!-- IT'S FOR ENTITY CLASSES -->
+		<property name="annotatedClasses">
+			<list>
+				<!--here we have to specified entity class with package if here will 
+					be more classes then we have to create here new value then specified new 
+					class with package name -->
+				<value>com.springmvc.controller.model.User</value>
+			</list>
+		</property>
+
+	</bean>
+
+
+
+	<!--THIS IS THE HIBERNATE TEMPLATE FOR AUTOWIRING -->
+	<bean class="org.springframework.orm.hibernate5.HibernateTemplate"
+		name="hibernateTemplate">
+		<property name="sessionFactory" ref="factory"></property>
+	</bean>
+	
+	<!-- this is for transaction data into database so we have to use @Transactional 
+		at dao class method for transaction  and also we have to use in xml file like
+		xmlns:tx="http://www.springframework.org/schema/tx" and also use on top of 
+		<context:component-scan> like <tx:annotation-driven/> -->
+	<bean
+		class="org.springframework.orm.hibernate5.HibernateTransactionManager"
+		name="transactionManager">
+		<property name="sessionFactory" ref="factory"></property>
+	</bean>
+
+
+
+</beans>
+

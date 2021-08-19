@@ -1,0 +1,5 @@
+package com.springboot.full.tut.exception;
+
+public class ResouceNotFoundException extends RuntimeException {
+
+}

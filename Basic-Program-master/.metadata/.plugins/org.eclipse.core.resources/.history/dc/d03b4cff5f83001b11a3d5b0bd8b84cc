@@ -1,0 +1,13 @@
+package com.practice;
+
+import org.omg.CosNaming.NamingContextExtPackage.StringNameHelper;
+
+public class Practice {
+	 Practice() {
+		
+	}
+	public static void main(String[] args) {
+		System.out.println(Math.max(12, 20));
+	}
+
+}

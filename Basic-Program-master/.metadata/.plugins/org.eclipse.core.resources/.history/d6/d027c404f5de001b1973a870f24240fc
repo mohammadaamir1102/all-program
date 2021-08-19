@@ -1,0 +1,8 @@
+package com.springboot.full.tut.exception;
+
+public class ResouceNotFoundException extends RuntimeException {
+	private String resourceName;
+	private String fieldName;
+	private Object fielValue;
+
+}

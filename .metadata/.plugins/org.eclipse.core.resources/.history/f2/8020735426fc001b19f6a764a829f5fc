@@ -1,0 +1,20 @@
+package java8Revision;
+
+public class MultipleClass {
+	
+	public class A{
+		void a() {
+			System.out.println("Class A");
+		}
+		
+	}
+	public class B{
+		void b() {
+			System.out.println("class B");
+		}
+	}
+	public static void main(String[] args) {
+		MultipleClass.new A
+	}
+
+}

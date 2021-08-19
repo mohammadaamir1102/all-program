@@ -1,0 +1,7 @@
+package com.springboot.full.tut.service.impl;
+
+import com.springboot.full.tut.service.inter.EmployeeService;
+
+public class EmployeeServiceImpl implements EmployeeService{
+
+}

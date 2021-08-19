@@ -1,0 +1,27 @@
+package java8Revision;
+
+import java.util.*;
+
+
+
+/*stream API is used to process collections of objects
+ * 
+ * A stream is a sequence of objects that supports various methods which can be pipelined
+ * to produce the desire result.
+ * 
+ * stream does not store the elements
+ * 
+ * Question:- why we need Stream?
+ * Answer:-   
+ * 1:-functional programming
+ * 2:-code Reduce
+ * 3:-Bulk operation 
+ * */
+
+public class StramWithDefination {
+	public static void main(String[] args) {
+		List<String> list = new ArrayList<>();
+		
+	}
+
+}

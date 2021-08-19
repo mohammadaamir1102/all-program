@@ -1,0 +1,254 @@
+
+Feb 14, 2021 20:54:20.657 NEW SESSION
+Feb 14, 2021 20:54:20.658 [728:9980:0214/205420.655:ERROR:device_event_log_impl.cc(211)] [20:54:20.655] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2021 20:58:27.978 [10304:7348:0214/205827.977:ERROR:device_event_log_impl.cc(211)] [20:58:27.976] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2021 20:58:27.990 [10304:7348:0214/205827.979:ERROR:device_event_log_impl.cc(211)] [20:58:27.978] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2021 21:01:18.113 [9912:7196:0214/210118.113:ERROR:device_event_log_impl.cc(211)] [21:01:18.113] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2021 21:01:18.130 [9912:7196:0214/210118.113:ERROR:device_event_log_impl.cc(211)] [21:01:18.114] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2021 21:04:01.439 [10792:10412:0214/210401.438:ERROR:device_event_log_impl.cc(211)] [21:04:01.438] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2021 21:04:01.450 [10792:10412:0214/210401.439:ERROR:device_event_log_impl.cc(211)] [21:04:01.438] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 16, 2021 10:30:05.347 NEW SESSION
+Feb 16, 2021 10:30:05.347 [7736:10172:0216/103005.344:ERROR:device_event_log_impl.cc(211)] [10:30:05.344] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 16, 2021 12:15:38.177 [7736:10172:0216/121538.176:ERROR:device_event_log_impl.cc(211)] [12:15:38.176] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+
+Feb 24, 2021 18:55:54.871 NEW SESSION
+Feb 24, 2021 18:55:54.872 [7360:5908:0224/185554.860:ERROR:device_event_log_impl.cc(211)] [18:55:54.861] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2021 19:26:01.888 [7360:4548:0224/192601.885:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2021 21:54:16.713 [7360:4548:0224/215416.693:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Feb 28, 2021 20:14:17.791 NEW SESSION
+Feb 28, 2021 20:14:17.796 [10552:13000:0228/201417.704:ERROR:device_event_log_impl.cc(211)] [20:14:17.705] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2021 10:46:20.202 [10552:2084:0301/104620.201:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 01, 2021 11:47:36.127 [10552:2084:0301/114736.121:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2021 11:52:30.603 [10552:2084:0301/115230.602:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 01, 2021 12:39:18.819 [10552:13000:0301/123918.812:ERROR:device_event_log_impl.cc(211)] [12:39:18.812] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Mar 01, 2021 17:07:34.545 [10552:2084:0301/170734.536:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 01, 2021 17:31:24.697 [10552:2084:0301/173124.693:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 03, 2021 10:32:49.965 NEW SESSION
+Mar 03, 2021 10:32:49.965 [1456:9740:0303/103249.962:ERROR:device_event_log_impl.cc(211)] [10:32:49.962] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 12, 2021 11:17:02.866 NEW SESSION
+Mar 12, 2021 11:17:02.866 [7056:6000:0312/111702.864:ERROR:device_event_log_impl.cc(211)] [11:17:02.863] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2021 11:32:31.130 [7056:6000:0312/113231.130:ERROR:device_event_log_impl.cc(211)] [11:32:31.130] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Mar 12, 2021 11:33:29.240 [7056:3512:0312/113329.240:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2021 11:33:39.03 [7056:3512:0312/113339.003:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2021 11:33:45.483 [7056:3512:0312/113345.483:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2021 11:35:09.530 [7056:3512:0312/113509.530:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 12, 2021 11:41:22.478 [7056:3512:0312/114122.477:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 11:41:45.739 [7056:3512:0312/114145.739:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2021 11:41:48.175 [7056:3512:0312/114148.175:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 11:42:09.302 [7056:3512:0312/114209.301:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2021 11:42:57.631 [7056:3512:0312/114257.631:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 11:44:32.154 [7056:3512:0312/114432.154:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 12, 2021 11:46:53.916 [7056:3512:0312/114653.916:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 11:48:09.430 [7056:3512:0312/114809.430:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Mar 12, 2021 11:48:11.588 [7056:3512:0312/114811.588:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 12:06:20.708 [7056:3512:0312/120620.707:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 12:06:43.794 [7056:3512:0312/120643.794:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 12:07:28.740 [7056:3512:0312/120728.740:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 12:08:57.100 [7056:3512:0312/120857.100:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 12:09:56.674 [7056:3512:0312/120956.674:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 12, 2021 15:01:49.959 [7056:3512:0312/150149.958:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2021 15:18:13.856 [7056:6000:0312/151813.856:ERROR:CONSOLE(3)] "Not allowed to load local resource: chrome://resources/css/text_defaults.css", source: chrome-extension://ahjaciijnoiaklcomgnblndopackapon/scope_approval_dialog.html (3)
+Mar 12, 2021 15:24:33.585 [7056:3512:0312/152433.585:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 15:24:56.20 [7056:3512:0312/152456.019:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 15:25:43.813 [7056:3512:0312/152543.812:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2021 15:27:30.48 [7056:3512:0312/152730.048:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2021 15:39:04.593 [7056:3512:0312/153904.582:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Mar 18, 2021 08:35:26.646 NEW SESSION
+Mar 18, 2021 08:35:26.646 [7456:3116:0318/083526.644:ERROR:device_event_log_impl.cc(214)] [08:35:26.644] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2021 08:35:26.662 [7456:3116:0318/083526.647:ERROR:device_event_log_impl.cc(214)] [08:35:26.647] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 18, 2021 08:36:29.545 [7456:3116:0318/083629.545:ERROR:device_event_log_impl.cc(214)] [08:36:29.545] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Mar 18, 2021 09:27:17.433 [7456:72:0318/092717.433:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 10:50:31.32 [7456:72:0318/105031.030:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 11:19:04.29 [7456:72:0318/111904.025:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 11:19:28.65 [7456:72:0318/111928.064:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 11:19:42.893 [7456:72:0318/111942.889:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 11:21:40.287 [7456:72:0318/112140.286:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 11:21:58.996 [7456:72:0318/112158.994:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 11:22:22.150 [7456:72:0318/112222.147:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 11:39:27.535 [7456:72:0318/113927.532:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 11:39:58.452 [7456:72:0318/113958.452:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 11:40:08.540 [7456:72:0318/114008.539:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 12:11:04.996 [7456:72:0318/121104.995:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 12:11:54.996 [7456:72:0318/121154.994:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 12:22:49.15 [7456:72:0318/122249.015:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 12:39:38.487 [7456:72:0318/123938.487:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 12:40:24.723 [7456:72:0318/124024.723:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 14:31:40.549 [7456:72:0318/143140.548:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 14:32:04.767 [7456:72:0318/143204.767:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 14:41:33.24 [7456:72:0318/144133.023:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 14:42:18.34 [7456:72:0318/144218.034:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 18, 2021 14:42:19.841 [7456:72:0318/144219.840:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 14:43:12.395 [7456:72:0318/144312.395:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 14:44:17.575 [7456:72:0318/144417.575:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 14:45:23.797 [7456:72:0318/144523.797:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 14:46:32.525 [7456:72:0318/144632.525:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Mar 18, 2021 14:46:35.781 [7456:72:0318/144635.780:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 14:46:50.680 [7456:72:0318/144650.679:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 14:46:57.669 [7456:72:0318/144657.669:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 14:50:26.979 [7456:72:0318/145026.979:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 14:52:44.353 [7456:72:0318/145244.353:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 14:53:02.839 [7456:72:0318/145302.838:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 14:53:19.427 [7456:72:0318/145319.427:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 14:55:00.365 [7456:72:0318/145500.364:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:21:58.311 [7456:72:0318/152158.310:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 15:28:45.393 [7456:72:0318/152845.392:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 15:33:05.631 [7456:72:0318/153305.631:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Mar 18, 2021 15:33:10.879 [7456:72:0318/153310.878:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:33:20.385 [7456:72:0318/153320.384:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:33:37.315 [7456:72:0318/153337.314:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:33:49.343 [7456:72:0318/153349.342:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:33:57.345 [7456:72:0318/153357.345:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:35:27.887 [7456:72:0318/153527.886:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 18, 2021 15:35:40.801 [7456:72:0318/153540.800:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:35:50.347 [7456:72:0318/153550.346:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:36:34.37 [7456:72:0318/153634.037:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:37:39.614 [7456:72:0318/153739.613:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:38:46.316 [7456:72:0318/153846.315:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:40:33.97 [7456:72:0318/154033.096:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 18, 2021 15:45:54.818 [7456:72:0318/154554.818:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 18, 2021 15:53:40.409 [7456:72:0318/155340.408:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Mar 20, 2021 11:21:56.918 NEW SESSION
+Mar 20, 2021 11:21:56.918 [8572:10444:0320/112156.915:ERROR:device_event_log_impl.cc(214)] [11:21:56.916] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 20, 2021 11:23:07.422 [8572:11004:0320/112307.422:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 20, 2021 11:23:31.427 [8572:11004:0320/112331.427:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 20, 2021 11:24:18.461 [8572:11004:0320/112418.461:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 20, 2021 11:35:01.13 [8572:11004:0320/113501.012:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 20, 2021 11:35:29.920 [8572:11004:0320/113529.920:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 20, 2021 11:36:46.102 [8572:11004:0320/113646.102:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 11:37:07.102 [8572:10444:0320/113707.102:ERROR:device_event_log_impl.cc(214)] [11:37:07.102] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Mar 20, 2021 11:37:08.211 [8572:11004:0320/113708.210:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 11:39:24.409 [8572:11004:0320/113924.409:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 20, 2021 11:43:53.919 [8572:11004:0320/114353.919:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 20, 2021 11:44:35.728 [8572:11004:0320/114435.728:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 20, 2021 11:45:42.704 [8572:11004:0320/114542.704:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 20, 2021 11:55:49.396 [8572:11004:0320/115549.396:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 20, 2021 11:59:31.999 [8572:11004:0320/115931.999:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:07:57.81 [8572:11004:0320/120757.081:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:08:25.943 [8572:11004:0320/120825.942:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:09:19.260 [8572:11004:0320/120919.259:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:10:49.693 [8572:11004:0320/121049.692:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:13:41.687 [8572:11004:0320/121341.687:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:20:16.901 [8572:11004:0320/122016.901:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:30:16.909 [8572:11004:0320/123016.908:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:40:16.913 [8572:11004:0320/124016.912:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 12:50:16.921 [8572:11004:0320/125016.920:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 13:00:16.929 [8572:11004:0320/130016.928:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 13:10:16.937 [8572:11004:0320/131016.936:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 14:52:29.874 [8572:11004:0320/145229.873:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 20, 2021 22:30:41.424 [8572:11004:0320/223041.421:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 20, 2021 22:30:41.461 [8572:12488:0320/223041.432:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 20, 2021 22:32:01.991 [8572:10444:0320/223201.990:ERROR:device_event_log_impl.cc(214)] [22:32:01.990] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Mar 20, 2021 22:47:28.458 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.517 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.535 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.551 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.571 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.589 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.607 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.629 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.649 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.667 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.684 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:47:28.699 [8572:10444:0320/224728.456:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:11.04 [8572:10444:0320/225511.003:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:11.473 [8572:10444:0320/225511.473:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:12.245 [8572:10444:0320/225512.244:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.376 [8572:10444:0320/225515.376:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.391 [8572:10444:0320/225515.390:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.410 [8572:10444:0320/225515.410:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.435 [8572:10444:0320/225515.435:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.478 [8572:10444:0320/225515.477:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.494 [8572:10444:0320/225515.481:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.507 [8572:10444:0320/225515.493:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.520 [8572:10444:0320/225515.493:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:15.637 [8572:10444:0320/225515.637:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:34.792 [8572:10444:0320/225534.791:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:35.814 [8572:10444:0320/225535.814:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:36.278 [8572:10444:0320/225536.278:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.157 [8572:10444:0320/225540.156:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.179 [8572:10444:0320/225540.166:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.197 [8572:10444:0320/225540.180:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.276 [8572:10444:0320/225540.276:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.289 [8572:10444:0320/225540.277:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.301 [8572:10444:0320/225540.278:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.315 [8572:10444:0320/225540.279:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.326 [8572:10444:0320/225540.283:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:55:40.339 [8572:10444:0320/225540.284:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:05.977 [8572:10444:0320/225705.973:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:07.251 [8572:10444:0320/225707.251:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:07.422 [8572:10444:0320/225707.422:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:11.429 [8572:10444:0320/225711.428:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:11.446 [8572:10444:0320/225711.443:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:11.476 [8572:10444:0320/225711.476:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:11.508 [8572:10444:0320/225711.508:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:11.521 [8572:10444:0320/225711.510:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:11.533 [8572:10444:0320/225711.514:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:11.547 [8572:10444:0320/225711.518:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:11.562 [8572:10444:0320/225711.527:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:13.347 [8572:10444:0320/225713.347:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:14.294 [8572:10444:0320/225714.294:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:14.550 [8572:10444:0320/225714.547:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.631 [8572:10444:0320/225718.631:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.645 [8572:10444:0320/225718.645:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.658 [8572:10444:0320/225718.658:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.734 [8572:10444:0320/225718.734:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.747 [8572:10444:0320/225718.739:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.761 [8572:10444:0320/225718.744:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.774 [8572:10444:0320/225718.757:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.783 [8572:10444:0320/225718.757:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:18.839 [8572:10444:0320/225718.839:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:51.244 [8572:10444:0320/225751.241:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:53.392 [8572:10444:0320/225753.392:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.579 [8572:10444:0320/225755.579:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.598 [8572:10444:0320/225755.597:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.611 [8572:10444:0320/225755.611:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.625 [8572:10444:0320/225755.625:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.705 [8572:10444:0320/225755.705:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.721 [8572:10444:0320/225755.721:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.729 [8572:10444:0320/225755.721:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.739 [8572:10444:0320/225755.736:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 22:57:55.748 [8572:10444:0320/225755.736:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:01:59.704 [8572:10444:0320/230159.703:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:00.796 [8572:10444:0320/230200.792:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:02.658 [8572:10444:0320/230202.657:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:03.770 [8572:10444:0320/230203.770:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:03.910 [8572:10444:0320/230203.909:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:03.960 [8572:10444:0320/230203.960:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:04.28 [8572:10444:0320/230204.028:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:04.204 [8572:10444:0320/230204.204:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:04.307 [8572:10444:0320/230204.306:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:04.323 [8572:10444:0320/230204.315:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:04.337 [8572:10444:0320/230204.321:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:04.350 [8572:10444:0320/230204.331:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:07.380 [8572:10444:0320/230207.380:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:08.627 [8572:10444:0320/230208.625:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:08.897 [8572:10444:0320/230208.897:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.701 [8572:10444:0320/230212.701:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.718 [8572:10444:0320/230212.714:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.735 [8572:10444:0320/230212.726:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.771 [8572:10444:0320/230212.771:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.791 [8572:10444:0320/230212.777:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.802 [8572:10444:0320/230212.783:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.815 [8572:10444:0320/230212.787:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.830 [8572:10444:0320/230212.791:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:02:12.844 [8572:10444:0320/230212.795:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:27:52.02 [8572:10444:0320/232752.002:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:27:53.708 [8572:10444:0320/232753.708:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:27:58.89 [8572:10444:0320/232758.089:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:29:18.210 [8572:10444:0320/232918.209:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:30:09.538 [8572:10444:0320/233009.538:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:36:41.89 [8572:10444:0320/233641.089:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:36:44.123 [8572:10444:0320/233644.122:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 20, 2021 23:36:44.343 [8572:10444:0320/233644.343:ERROR:fallback_task_provider.cc(119)] Every renderer should have at least one task provided by a primary task provider. If a fallback task is shown, it is a bug. Please file a new bug and tag it as a dependency of crbug.com/739782.
+Mar 21, 2021 24:00:21.952 [8572:11004:0321/000021.952:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Mar 21, 2021 24:00:24.250 [8572:11004:0321/000024.250:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2021 24:08:25.267 [8572:11004:0321/000825.267:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 21, 2021 24:08:53.942 [8572:11004:0321/000853.942:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Mar 21, 2021 24:09:36.21 [8572:11004:0321/000936.020:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Mar 21, 2021 24:30:09.540 [8572:11004:0321/003009.539:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

@@ -1,0 +1,13 @@
+package aamir;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+class Aamir {
+	public static void main(String[] args) {
+		String [] aStrings= {"Aamir","Aasim","Salman"};
+		ArrayList<Object> arrayList = new ArrayList<>(Arrays.asList(aStrings));
+		arrayList.forEach(a->System.out.println(a));
+		
+	}
+}

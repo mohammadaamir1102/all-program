@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<style>
+.container {
+	width: 30%;
+	border: 3px solid black;
+	margin: auto;
+	padding: 20px;
+	font-size: 18px;
+}
+
+#myform table tr td input {
+	font-size: 18px;
+}
+</style>
+</head>
+<body>
+	<div class="container">
+		<form method="post" action="Register" id="myform">
+			<table>
+				<tr>
+					<td>Email:</td>
+				</tr>
+				<tr>
+					<td><input type="text" name="email" required="required" /><br /></td>
+				</tr>
+
+				<tr>
+					<td>Password:</td>
+				</tr>
+				<tr>
+					<td><input type="text" name="pass" required="required" /> <br /></td>
+				</tr>
+				<tr>
+					<td>Conform Password:</td>
+				</tr>
+				<tr>
+					<td><input type="text" name="cpass" required="required" /> <br /></td>
+				</tr>
+				<tr>
+					<td><input type="submit" value="Submit" /></td>
+				</tr>
+			</table>
+		</form>
+		<table>
+	<tr><td><a href="index.jsp">Back</a></td></tr></table>
+	</div>
+</body>
+</html>

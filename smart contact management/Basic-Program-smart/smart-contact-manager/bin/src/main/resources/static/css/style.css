@@ -1,0 +1,159 @@
+body {
+	background: #e2e2e2 !important;
+}
+
+.bg-primary {
+	background: #2E86C1 !important;
+}
+
+.imageBanner {
+	width: 100%;
+	background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)),
+		url("../img/contact.jpg");
+	background-size: cover;
+	height: 93vh;
+	color: white;
+}
+
+.my-card {
+	padding: 20px;
+	background: #FFFFFF;
+}
+
+.my-card1 {
+	padding: 10px;
+}
+
+.form-signin {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+.form-signin .form-signin-heading, .form-signin .checkbox {
+	margin-bottom: 10px;
+}
+
+.form-signin .checkbox {
+	font-weight: normal;
+}
+
+.form-signin .form-control {
+	position: relative;
+	font-size: 16px;
+	height: auto;
+	padding: 10px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.form-signin .form-control:focus {
+	z-index: 2;
+}
+
+.form-signin input[type="text"] {
+	margin-bottom: -1px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.form-signin input[type="password"] {
+	margin-bottom: 10px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+
+.account-wall {
+	margin-top: 20px;
+	padding: 40px 0px 20px 0px;
+	background-color: #f7f7f7;
+	-moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.login-title {
+	color: #555;
+	font-size: 18px;
+	font-weight: 400;
+	display: block;
+}
+
+.profile-img {
+	width: 96px;
+	height: 96px;
+	margin: 0 auto 10px;
+	display: block;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.need-help {
+	margin-top: 10px;
+}
+
+.new-account {
+	display: block;
+	margin-top: 10px;
+}
+/* this is for hide side bar in small screen and show big screen
+but if i want show side bar in small screen then we have to use JS
+*/
+@media only screen and (max-width: 600px) {
+	.sidebar {
+		display: none;
+		width: 80% !important;
+		background: white;
+		height: 100vh;
+		position: fixed;
+		padding-top: 20px;
+	}
+	.content {
+		margin-left: 0% !important;
+	}
+}
+/* side bar style */
+.sidebar {
+	width: 18%;
+	background: white;
+	height: 100%;
+	position: fixed;
+	padding-top: 45px;
+	z-index: 9999999999999999999999999999999999999999999999999;
+}
+/* side bar anchor tag */
+.sidebar a {
+	display: block;
+	width: 100%;
+	padding: 10px 25px;
+	text-decoration: none;
+	 color: gray;
+}
+/* when i slide cursor on like contact setting etc then color change  */
+.sidebar a:hover {
+	background: #e2e2e2;
+}
+/* this is for devider on side bar */
+.sidebar .devider {
+	height: .5px;
+	width: 100%;
+	background: #e2e2e2;
+}
+
+.content {
+	margin-left: 20%;
+}
+
+.sidebar .crossBtn {
+	position: absolute;
+	top: 0px;
+	right: 35px;
+	font-size: 36px;
+	cursor: pointer;
+}
+
+.col-md-8 offset-md-2{
+	color: #2E86C1;
+}
