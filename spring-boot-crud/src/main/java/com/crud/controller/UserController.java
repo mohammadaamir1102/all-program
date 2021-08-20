@@ -52,6 +52,13 @@ public class UserController {
     public ResponseEntity<List<User>> getUserByName(@PathVariable("userName") String userName){
         return new ResponseEntity<List<User>>(userService.getUserByName(userName),HttpStatus.OK);
     }
+    
+    //here is the pagination
+    @GetMapping("/get-page/{pageNo}/{pageSize}")
+    public ResponseEntity<List<User>> pagination(@PathVariable int pageNo, @PathVariable int pageSize){
+		return new ResponseEntity<List<User>>(userService.pagination(pageNo, pageSize),HttpStatus.OK);
+    	
+    }
 
     //delete user based on id
     @DeleteMapping("/{id}")

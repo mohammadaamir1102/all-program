@@ -12,4 +12,5 @@ public interface UserService {
     User getUserById(Long userId);
     List<User> getUserByName(String userName);
     void DeleteById(Long userId);
+    List<User> pagination(int pageNo, int pageSize);
 }
