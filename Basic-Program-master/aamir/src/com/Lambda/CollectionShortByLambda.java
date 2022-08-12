@@ -65,6 +65,8 @@ public class CollectionShortByLambda {
 		 * Comparator.comparing(Student123::getAge)); list.forEach(a ->
 		 * System.out.println(a));
 		 */
+		Collections.sort(list,Comparator.comparing(Student123::getAge));
+		list.forEach(studentIterate -> System.out.println("List Iteration "+studentIterate));
 		
 	}
 

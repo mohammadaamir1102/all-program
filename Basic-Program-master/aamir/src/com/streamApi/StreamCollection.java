@@ -14,6 +14,8 @@ public class StreamCollection {
 				listEven.add(integer);// this code called broiler code means largest Line code
 			}
 		}
+		List<Integer> FindEvenNo = listEven.stream().filter(findEvenNumber -> findEvenNumber %2 == 0).collect(Collectors.toList());
+		FindEvenNo.forEach(evenIterate -> System.out.println("even no is !!!!!"+evenIterate));
 		System.out.println("All no " + list);
 		System.out.println("even no in list " + listEven);// without using Stream
 		System.out.println();

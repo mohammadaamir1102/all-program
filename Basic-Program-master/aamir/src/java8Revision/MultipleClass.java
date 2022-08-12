@@ -5,20 +5,13 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class MultipleClass {
-
-	public static void main(String[] args) throws NumberFormatException, IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		System.out.println("Enter number for Palindrome");
-		int number = Integer.parseInt(br.readLine());
-		int temp = number;
-		int rem, rev = 0;
-		while (number > 0) {
-			rem = number % 10;
-			rev = rev * 10 + rem;
-			number = number / 10;
-		}
-		String result = (rev == temp) ? "palindrome number" : "not palindrome number";
-		System.out.println(result);
+	void x() {
+		System.out.println(this);
 	}
 
+	public static void main(String args[]) {
+		MultipleClass a = new MultipleClass();
+		System.out.println(a);
+		a.x();
+	}
 }
