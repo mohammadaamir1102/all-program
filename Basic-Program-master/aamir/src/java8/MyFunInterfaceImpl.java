@@ -21,4 +21,6 @@ public class MyFunInterfaceImpl {
 	 * note if we are using implement then need to override then with implement we
 	 * can use Lambda expression
 	 */
+	
+	/* note :- if there is no parameter in the method then do not need to curly braces*/
 }
