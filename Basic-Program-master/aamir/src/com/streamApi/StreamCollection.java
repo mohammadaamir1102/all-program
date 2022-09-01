@@ -1,11 +1,14 @@
 package com.streamApi;
 
+import java.lang.invoke.CallSite;
+import java.security.AlgorithmParameterGenerator;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class StreamCollection {
 	public static void main(String[] args) {
+		
 		List<Integer> list = new ArrayList<>();
 		List<Integer> listEven = new ArrayList<>();
 		Collections.addAll(list, 2, 4, 3, 5, 6, 8, 7);
@@ -74,6 +77,12 @@ public class StreamCollection {
 		 */
 		List<Integer> collect7 = list3.stream().map(q->q*3).filter(even->even%2==0).collect(Collectors.toList());
 		collect7.forEach(j->System.out.println(j));
+		
+		List<Integer> arrayList = new ArrayList<>();
+		Collections.addAll(arrayList, 1,2,3,4,5,6,7,8,9,10);
+		arrayList.forEach(System.out::print);
+		
+		
 	}
 
 }

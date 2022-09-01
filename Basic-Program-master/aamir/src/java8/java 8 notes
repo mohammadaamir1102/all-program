@@ -1,0 +1,9 @@
+Functional interface?
+The interface who contain only one abstract method 
+but can have multiple default and static method is called functional interface
+
+i.e
+Runnable   	=  run()
+Callable 	= call()
+Comparable	= compareTo()
+Comprator	= compare()
