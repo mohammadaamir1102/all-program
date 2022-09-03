@@ -10,6 +10,11 @@ public class MyFunInterfaceImpl {
 		myFunInterface.show();
 		System.out.println(myFunInterface.name("Aamir"));
 		System.out.println(MyFunInterface.age(15));
+		
+		
+		if(!false==true) {
+			System.out.println("hello");
+		}
 	}
 
 	/*
