@@ -1,4 +1,4 @@
-Functional interface?
+Question :-  What is the Functional interface?
 The interface who contain only one abstract method 
 but can have multiple default and static method is called functional interface
 
@@ -7,3 +7,20 @@ Runnable   	=  run()
 Callable 	= call()
 Comparable	= compareTo()
 Comprator	= compare()
+
+
+Question:- What is the Stream API?
+
+-> Stream API is used to process collections of objects;
+-> A stream a sequence of of object that supports various methods which can be pipelined 
+   to produce the desire result.
+-> A stream is not a data structure instead it takes input from  the Collections, Arrays or I/O channels.
+-> Stream does not change the original data structure they only provide the result as per the pipelined method.
+
+Question :- Why we need stream API?
+1- Functional Programming
+2- Code Reduce
+3- Bulk Operation
+
+filter() method = use for conditional check
+forEach - for iteration 
