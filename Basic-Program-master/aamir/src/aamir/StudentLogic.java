@@ -32,6 +32,7 @@ public class StudentLogic {
 		studentPractices.add(new StudentPracticeSalaryIncrease(5, "Abid khan", "kurla", 'M', 19, 6000d,
 				Timestamp.valueOf(LocalDateTime.now())));
 
+		System.out.println("get zero "+studentPractices.get(0));
 		for (StudentPracticeSalaryIncrease studentPracticeSalaryIncrease : studentPractices) {
 			System.out.println("Time is " + studentPracticeSalaryIncrease.getTime());
 

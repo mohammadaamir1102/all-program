@@ -10,8 +10,5 @@ public class ArrayListNomal {
 		al.add("Apple");
 		al.add("Banana");
 		al.add("Grapes");
-		al.forEach(a->{
-			System.out.println(a);
-		});
 	}
 }
