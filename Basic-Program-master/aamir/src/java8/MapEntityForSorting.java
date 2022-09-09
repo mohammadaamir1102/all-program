@@ -28,6 +28,12 @@ public class MapEntityForSorting {
 			}
 		});
 		entries.forEach(a->System.out.println(a));
+		System.out.println("_______above example as a traditional approach way_________");
+		
+		List<Entry<String, Integer>> entries2 = new ArrayList<>(map.entrySet());
+		Collections.sort(entries2, (o1,o2)-> o1.getValue().compareTo(o2.getValue()));
+		entries2.forEach(a->System.out.println(a));
+		System.out.println("_______above example as a lambda approach way_________");
 	}
 
 }
