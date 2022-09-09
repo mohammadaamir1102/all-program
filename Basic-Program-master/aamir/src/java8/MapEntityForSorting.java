@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.stream.Collectors;
 
 public class MapEntityForSorting {
 
@@ -27,13 +28,19 @@ public class MapEntityForSorting {
 				return o1.getValue().compareTo(o2.getValue());
 			}
 		});
-		entries.forEach(a->System.out.println(a));
+		entries.forEach(a -> System.out.println(a));
 		System.out.println("_______above example as a traditional approach way_________");
-		
+
 		List<Entry<String, Integer>> entries2 = new ArrayList<>(map.entrySet());
-		Collections.sort(entries2, (o1,o2)-> o1.getValue().compareTo(o2.getValue()));
-		entries2.forEach(a->System.out.println(a));
+		Collections.sort(entries2, (o1, o2) -> o1.getValue().compareTo(o2.getValue()));
+		entries2.forEach(a -> System.out.println(a));
 		System.out.println("_______above example as a lambda approach way_________");
+
+		map.entrySet().stream().sorted(Map.Entry.comparingByKey()).forEach(System.out::println);
+		System.out.println("_______above example as a stream approach way_________");
+		
+		map.entrySet().stream().sorted(Map.Entry.comparingByValue()).forEach(System.out::println);
+		System.out.println("_______above example as a stream approach way_________");
 	}
 
 }
