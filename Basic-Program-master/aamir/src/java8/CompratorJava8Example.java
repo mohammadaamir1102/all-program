@@ -2,14 +2,10 @@ package java8;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
-
-import aamir.Hello1;
 
 public class CompratorJava8Example {
 	public static void main(String[] args) {
-		new CompratorJava8Example();
 		List<StudentBook> studentBook = CompratorJava8Example.getStudentBook();
 		studentBook.forEach(System.out::println);
 	}
