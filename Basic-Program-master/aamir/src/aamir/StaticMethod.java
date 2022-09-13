@@ -7,7 +7,7 @@ public class StaticMethod {
 
 	public static void main(String[] args) {
 		display();
-		Test.screen();
+		Prctce.screen();
 
 	}
 }
