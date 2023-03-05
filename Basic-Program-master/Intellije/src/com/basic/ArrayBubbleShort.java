@@ -1,6 +1,6 @@
 package com.basic;
 
-public class ArrayBubbleShort {
+public class ArrayBubbleSort {
     public static void main(String[] args) {
         int[] a={20,54,64,23,54};
         for(int i=0;i<a.length;i++)
