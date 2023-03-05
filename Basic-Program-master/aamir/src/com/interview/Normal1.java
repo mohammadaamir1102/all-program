@@ -1,6 +1,6 @@
-package com.interview;
+package com.aamir;
 
-public class Normal1 {
+public class Interview {
 
 	public static void main(String[] args) {
 		if(10==1_0) {
