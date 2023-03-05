@@ -1,4 +1,4 @@
-package com.basic;
+package com.aamir;
 
 public class ArrayBubbleSort {
     public static void main(String[] args) {
